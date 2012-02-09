@@ -1,0 +1,6 @@
+*.pyc
+.Python
+lib
+include
+bin
+db.sqlite
